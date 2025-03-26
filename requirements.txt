@@ -7,3 +7,4 @@ pyngrok
 matplotlib
 scikit-learn
 nest_asyncio 
+python-multipart
